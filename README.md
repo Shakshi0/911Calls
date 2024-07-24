@@ -22,4 +22,5 @@ The data is provided from Kaggle and it contains the following fields:
 Note: There were couple erros in lines 40-42 due to missing data, but I was able to fix it with Pandas for the data processing. 
 
 Conclusion
+
 Overall, most calls were for EMS responses. Notably, the second most frequent 911 call was for Vehicle Accidents, comprising nearly 30% of total calls. As anticipated, there was greater variability in call volume throughout the day, with EMS and Traffic experiencing both higher call volumes and more fluctuation compared to Fire, particularly during daytime hours.
