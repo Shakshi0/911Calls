@@ -9,15 +9,15 @@ Table of Content
 - Conclusion
 
 The data is provided from Kaggle and it contains the following fields:
-lat : String variable, Latitude
-lng: String variable, Longitude
-desc: String variable, Description of the Emergency Call
-zip: String variable, Zipcode
-title: String variable, Title
-timeStamp: String variable, YYYY-MM-DD HH:MM:SS
-twp: String variable, Township
-addr: String variable, Address
-e: String variable, Dummy variable 
+- lat : String variable, Latitude
+- lng: String variable, Longitude
+- desc: String variable, Description of the Emergency Call
+- zip: String variable, Zipcode
+- title: String variable, Title
+- timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+- twp: String variable, Township
+- addr: String variable, Address
+- e: String variable, Dummy variable 
 
 Note: There were couple erros in lines 40-42 due to missing data, but I was able to fix it with Pandas for the data processing. 
 
